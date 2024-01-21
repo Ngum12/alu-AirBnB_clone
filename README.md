@@ -115,4 +115,4 @@ help or help <command> Ex:
 
 # `Authors`
 
-**Besthor Igbe** **[Email](besthortechhub@gmail.com)**
+**Ngum Dieudonne** **[Email](d.ngum@alustudent.com)**
